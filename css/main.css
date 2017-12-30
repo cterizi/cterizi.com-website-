@@ -1,0 +1,107 @@
+#main p {
+	padding: 0 3%;
+}
+	
+#main section{
+	padding: 2.5em 0;
+	box-shadow: inset 0 1px 0 0 rgba(0,0,0,0.05), inset 0 0.1em 0.1em 0 rgba(0,0,0,0.025);
+	text-align: center;
+}
+
+#main section.one{
+	background-color: #000;
+	background-image: url('../images/70-photography-13.jpg');
+	color: #fff;
+	background-size: cover;
+	background-position: center center;
+	padding-top: 10em;
+	padding-left: 0em;
+	padding-bottom: 11em;
+	padding-right: 0em;
+	/* background-repeat: no-repeat; */
+}
+			
+#main section.one .bigname{
+	font-size: 1.9em;
+	color: #ffffff;
+}
+		
+#main section.one strong{
+	color: #e6005c;
+}
+
+.full-opacity p{
+	font-size: 1.3em;
+	margin: 2.0em;
+	color: white;
+}
+
+.full-opacity a{
+	text-decoration: none;
+	color: #e6005c;
+}
+
+#main section .two{
+	background-color: #f5fafa;
+}
+
+#main section.two #photobook{
+	color: #777;
+	font-size: 1.5em;
+	color: #cc0052;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	letter-spacing: 1px;
+	display: table; 
+}
+
+#main section.two #photobook .photo{
+	width: 50%;
+	float: left;
+	/* display: table-cell; */
+}
+
+#main section.two #photobook p{
+	letter-spacing: 0px;
+	font-size: 0.8em;
+	color: silver;
+}
+
+#main #contact{
+	background-color: #ebebe0;
+}
+
+#main ul{
+	display: inline-block;
+}
+
+#main .social-icons{
+	margin: 0;
+	display: inline-block;
+}
+
+#main .social-icons  li {
+	display: inline-block;
+	padding: 0 0 0 0.5em;
+	margin: 0 0 0 0.5em;
+	text-decoration: none;
+}
+
+#main section.four h2{
+	font-size: 2.0em;
+}
+
+#main section.four p{
+	font-size: 1.2em;	
+}
+
+#main section.two #photobook article header{
+	margin-top : 2%;
+}
+
+#main section.two #photobook article p{
+	font-size: 70%;
+}
+
+#main section#contact.four a:hover{
+	letter-spacing: 1px;
+}

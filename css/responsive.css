@@ -1,0 +1,38 @@
+@media only screen and (max-width: 540px) {
+
+	#logo p
+	{
+		display: none;
+	}
+	
+	nav ul { 
+		display: none;
+	}
+	
+	#main section.two #photobook .photo
+	{
+		float: left;
+		width: 100%;
+	}
+	
+	#footer
+	{
+		background-color: #dce3e2;
+		padding: 1em 0 1em 0;
+		font-size: 0.7em;
+		text-align: center;
+	}
+
+		 #main ul
+		{
+			margin: 0;
+ 			padding: 0;
+ 			list-style: none;
+		} 
+
+		#footer-logo
+		{
+			float: none;
+		}
+	
+}

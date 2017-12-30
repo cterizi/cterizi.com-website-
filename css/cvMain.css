@@ -1,0 +1,43 @@
+section#one{
+	padding-top: 5%;
+	background-color: #e6e6ff;
+	padding-bottom: 0.5%;
+}
+
+section#one ul{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 25px;
+	color: #cc0052;
+	letter-spacing: 1px;
+	list-style-type: circle;
+}
+
+section#one ul li ul li{
+	font-size: 15px;
+	color: #ff3385;
+	text-decoration: none;
+	letter-spacing: 2px;
+	list-style-type: square;
+}
+
+section#one ul li ul li a{
+	text-decoration: none;
+	color: #b30047;
+}
+
+section#one ul li ul li a:hover{
+	letter-spacing: 3px;
+	color: #ff80b3;
+}
+
+section#one ul li ul li a:visited{
+	color: #2929a3;
+}
+
+footer#footer{
+	border-top: 1px black solid;
+}
+
+section#one div#eikona span#hereiam{
+	width: 50%;
+}

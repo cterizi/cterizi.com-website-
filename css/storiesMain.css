@@ -1,0 +1,15 @@
+div#background{
+	background-image: url('../images/stories/1549283.jpg');
+	background-size: cover;
+	background-position: center center;
+	width: 100%;
+	padding-top: 27%;
+	padding-bottom: 13%;
+}
+
+div#background h1{
+	text-align: right;
+	font-family: ;
+	font-size: ;
+	letter-spacing: 1.5px;
+}

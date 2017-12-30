@@ -1,0 +1,75 @@
+body section#info{
+	padding-top: 16.5%;
+	text-align: center;
+	padding-bottom: 11%;
+	background-image: url('../images/gallerybg.jpg');
+	background-size: cover;
+	background-position: center center;
+	width: 100%;
+}
+
+section#info h1{
+	color: white;
+	font-size: 2.3em;
+	font-family: Courier;
+}
+
+section#info p{
+	margin-top: 5.5%;
+	color: white;
+	font-family: Courier;
+	width: 100%;
+}
+
+section#info p a{
+	color: white;
+	text-decoration: none;
+}
+
+section#info p a span.one{
+	color: red;
+	font-weight: bold;
+}
+
+section#info p a span.two{
+	color: orange;
+	font-weight: bold;	
+}
+
+section#info p a span.three{
+	color: yellow;
+	font-weight: bold;	
+}
+
+section#info p a span.four{
+	color: green;
+	font-weight: bold;	
+}
+
+section#info p a span.five{
+	color: blue;
+	font-weight: bold;	
+}
+
+section#info p a span.six{
+	color: #33ffff;
+	font-weight: bold;	
+}
+
+section#info p a span.seven{
+	color: purple;
+	font-weight: bold;	
+}
+
+section#info p a span.eight{
+	color: white;
+	font-weight: bold;	
+}
+
+section#info p a span#word{
+	letter-spacing: 0.5em;
+}
+
+section#my-photos{
+	border-bottom: 1px solid gray;
+}

@@ -1,0 +1,190 @@
+body{
+	background: #ffffe5;
+	margin: 0px auto;
+	font-family: sans-serif;
+	font-weight: 300;
+	line-height: 1.75em;
+	font-size: 1.2em;
+	width: 100%;
+	color: black;
+}
+
+div#one h1{
+	font-size: 1.7em;
+	color: #fff;
+	font-family: "Comic Sans MS",cursive,sans-serif;
+	letter-spacing: 1px;
+	text-align: center;
+}
+
+div#one p{
+	text-align: center;
+	margin: 0 3%;
+}
+
+div#one section{
+	width: 100%;
+	display: inline-block;
+}
+
+div#one section h2{
+	text-align: center;
+	color: #80b3ff;
+	font-size: 90%;
+	letter-spacing: 1px;
+}
+
+div#one section p{
+	font-size: 60%;
+	font-family: "Courier New", Courier, monospace;
+	color: #33334c;
+}
+
+div#one div#eidi{
+	padding: 0% 0px;
+	background-color: #e5e5ff;
+}
+
+div#one div#info, div#one div#eidi, div#one div#tape{
+	border-bottom: 1px solid gray;
+}
+
+div#one div#tape span{
+	width: 50%;
+}
+
+div#one div#info{
+	padding-top: 17%;
+	padding-bottom: 5.8%;
+	background-image: url('../images/life-is-music-simple-background-2560x1600.jpg');
+	background-size: cover;
+	background-position: center center;
+	width: 100%;
+}
+
+div#one div#info p{
+	padding: 3% 13%;
+	font-size: 0.95em;
+	font-family: Times, serif;
+}
+
+div#one div#eidi{
+	padding-bottom: 9%; 
+}
+
+div#one div#eidi section#trip-hop{
+	padding-left: 9%;
+	padding-top: 7%;
+}
+
+div#one div#eidi section#trip-hop h2{
+	text-align: left;
+	padding-left: 0px;
+}
+
+div#one div#eidi section#trip-hop p{
+	text-align: left;
+	padding-left: 0px;
+	margin-left: 0px;
+	width: 30%;
+}
+
+div#one div#eidi section#jazz{
+	padding-top: 7%;
+	text-align: right;
+}
+
+div#one div#eidi section#jazz h2{
+	text-align: right;
+	padding-right: 10.5%;
+}
+
+div#one div#eidi section#jazz p{
+	text-align: right;
+	width: 30%;
+	padding-left: 57%;
+}
+
+div#one div#eidi section#jazz header a img{
+	margin-right: 10%;
+}
+
+div#one div#eidi section#techno{
+	padding-top: 7%;
+	text-align: right;
+}
+
+div#one div#eidi section#techno h2{
+	text-align: right;
+	padding-right: 10.5%;
+}
+
+div#one div#eidi section#techno p{
+	text-align: right;
+	width: 30%;
+	padding-left: 57%;
+}
+
+div#one div#eidi section#techno header a img{
+	margin-right: 10%;
+}
+div#one div#eidi section#greek-rock{
+	padding-left: 9%;
+	padding-top: 7%;
+}
+
+div#one div#eidi section#greek-rock h2{
+	text-align: left;
+	padding-left: 0px;
+}
+
+div#one div#eidi section#greek-rock p{
+	text-align: left;
+	padding-left: 0px;
+	margin-left: 0px;
+	width: 30%;
+}
+
+div#one div#tape{
+	background-color: #007f80;
+	width: 100%;
+	padding-top: 2%;
+	padding-bottom: 8%;
+}
+
+div#one div#tape a{
+	margin-left: 8%;
+}
+
+div#one div#tape img{
+	margin-top: 10%;
+	border-bottom-right-radius: 7%;
+	border-top-right-radius: 7%;
+	border-top-left-radius: 7%;
+	border-bottom-left-radius: 7%;
+}
+
+div#one div#tape p span#tape-info{
+	font-size: 0.9em;
+	color: white;
+}
+
+div#one div#tape p span#tape-info a{
+	margin: 0px;
+	text-decoration: none;
+	color: #66b2ff;
+}
+
+div#one div#tape p span#tape-info a:hover{
+	color: #b3d9ff;
+}
+
+div#one div#tape span{
+	display: inline-block;
+	width: 45%;
+}
+
+div#one div#tape p{
+	widows: 55%;
+	display: inline-block;
+}

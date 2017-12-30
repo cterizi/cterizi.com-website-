@@ -1,0 +1,36 @@
+section#my-photos {
+	padding: 5% 4.5%;
+}
+
+section#my-photos section#square img{
+	border-radius: 10%;
+	margin-bottom: 5%;
+	margin-right: 2%;
+	margin-left: 0.5%;
+	opacity: 0.6;
+	filter: alpha(opacity=60);
+}
+
+section#my-photos section#square img:hover{
+	opacity: 1.0;
+    filter: alpha(opacity=100);
+}
+
+section#my-photos section#square img#lake{
+	margin-left: 11%;
+	margin-right: 11%;
+}
+
+section#my-photos section#parallelogram img{
+	border-radius: 10%;
+	margin-right: 5%;
+	margin-left: 5%;
+	margin-bottom: 5%;
+	opacity: 0.6;
+	filter: alpha(opacity=60);
+}
+
+section#my-photos section#parallelogram img:hover{
+	opacity: 1.0;
+    filter: alpha(opacity=100);
+}
